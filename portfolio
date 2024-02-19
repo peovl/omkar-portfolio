@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio page</title>
+</head>
+<body>
+    <header>
+        <h1>Omkar Kadam</h1>
+        <P>I love coding</P>
+        <img src="Omkar.jpg" height="100px" width="100px" alt="Ok">
+        <hr>
+    </header>
+
+    <section>
+        <h2>Education</h2>
+        <ul>
+            <li><b>10th class</b> 86.20%</li>
+            <li><b>12th class</b>  80.00%</li>
+            <li><b>Bachlor of engineering (E&TC)</b></li>
+    </ul>
+    <hr>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML, CSS, Javascript</li>
+            <li>Nodejs, SQL</li>
+            <li>Java, Python</li>
+        </ul>
+        <hr>
+    </section>
+
+    <section>
+        <H2>Hobbies</H2>
+        <ul>
+            <li>Reading</li>
+            <li>play cricket</li>
+            <li>debate</li>
+        </ul>
+        <hr>
+    </section>
+
+    <footer>
+        <h2>Contact Me</h2>
+        <ul>
+            <li><b>Email :</b> omkarofficials07@gmail.com</li>
+            <a href="https://www.linkedin.com/feed/">Linkedin</a>
+        </ul>
+</footer>
+<h3>made with &hearts; by me</h3>
+</body>
+</html>
